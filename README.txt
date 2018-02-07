@@ -16,3 +16,9 @@ Then the defense ddos script starts. If you are attacked by ddos, execute.
 Netstat -ntu | awk '{print $5}' | cut -d: -f1 | sort | uniq-c | sort -n.
 
 Command to view your IP. Detailed article: http://www.cnblogs.com/haq5201314/p/8351960.html
+
+python shell.py -h
+-a  asp Trojan horse 
+-j  jsap Trojan horse 
+-p php Trojan horse 
+-v Edition
