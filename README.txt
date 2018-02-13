@@ -22,3 +22,5 @@ python shell.py -h
 -j  jsap Trojan horse 
 -p php Trojan horse 
 -v Edition
+
+python3 Sqllinject.py
