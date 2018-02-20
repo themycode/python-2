@@ -24,3 +24,12 @@ python shell.py -h
 -v Edition
 
 python3 Sqllinject.py
+
+python3 WebmasterTools.py
+Usage: [-z Subdomain mining][-p Side of the station inquiries][-x http status query]
+
+Options:
+  -h, --help    show this help message and exit
+  -z SUBDOMAIN  Subdomain mining
+  -p SIDE       Side of the station inquiries
+  -x HTTP       http status query
